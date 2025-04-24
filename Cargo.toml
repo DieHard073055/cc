@@ -1,0 +1,8 @@
+[package]
+name = "cc"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rust_decimal = { version = "1.37.1", features = ["macros"] }
+thiserror = "2.0.12"
