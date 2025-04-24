@@ -81,7 +81,7 @@ cc help
 
 ### Solana (SOL)
 - sol - SOL
-- lam or lamports - Lamports (1/1,000,000,000 SOL)
+- lamports - Lamports (1/1,000,000,000 SOL)
 
 ## Examples
 
@@ -119,8 +119,8 @@ Convert 0.5 SOL to Lamports:
 ```bash
 
 
-cc 0.5 sol to lam
-# Output: 0.5 sol = 500000000 lam
+cc 0.5 sol to lamports
+# Output: 0.5 sol = 500000000 lamports
 
 
 ```
